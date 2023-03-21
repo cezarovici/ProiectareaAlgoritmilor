@@ -1,0 +1,40 @@
+ Increasing insertionDuration = 360µs (0.36ms)
+
+ Number of iterations: 0
+
+ ____Vector sorted!_____ 
+
+
+ Decreasing insertionDuration = 9742210µs (9742.21ms)
+
+ Number of iterations: 4999950000
+
+ ____Vector sorted!_____ 
+
+
+ Random:  insertionDuration = 4876682µs (4876.68ms)
+
+ Number of iterations: 2491977701
+
+ ____Vector sorted!_____ 
+
+
+ Increasing shell sortDuration = 4686µs (4.686ms)
+
+ Number of iterations: 0
+
+ ____Vector sorted!_____ 
+
+
+ Decreasing shell sortDuration = 7143µs (7.143ms)
+
+ Number of iterations: 524450
+
+ ____Vector sorted!_____ 
+
+
+ Random:  shell sortDuration = 22370µs (22.37ms)
+
+ Number of iterations: 2418739
+
+ ____Vector sorted!_____

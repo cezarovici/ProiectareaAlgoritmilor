@@ -71,6 +71,7 @@ void shellSort(int *vector, int n, type T)
 
                 cnt++;
             }
+            cnt++;
 
             if (j+h != i)
                 vector[j + h] = temp;
@@ -125,6 +126,7 @@ void insertionSort(int *vector, int n, type T)
 
             cnt++;
         }
+        cnt++;
 
         if (i != k - 1)
             vector[i + 1] = temp;

@@ -1,0 +1,64 @@
+// order
+// 1. merge sort 
+- crescator
+- descrescator
+- random
+
+
+
+merge sort 
+
+
+ ____Vector sorted!_____ 
+
+Duration = 12940
+
+
+
+ ____Vector sorted!_____ 
+
+Duration = 13799
+
+
+
+ ____Vector sorted!_____ 
+
+Duration = 20871
+
+quick sort 1
+
+
+ ____Vector sorted!_____ 
+
+Duration = 16595855
+
+
+
+ ____Vector sorted!_____ 
+
+Duration = 15223819
+
+
+
+ ____Vector sorted!_____ 
+
+Duration = 15733
+
+quick sort 2
+
+
+ ____Vector sorted!_____ 
+
+Duration = 17034243
+
+
+
+ ____Vector sorted!_____ 
+
+Duration = 15907345
+
+
+
+ ____Vector sorted!_____ 
+
+Duration = 16669

@@ -2,6 +2,13 @@
     "files.associations": {
         "*.rmd": "markdown",
         "chrono": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "atomic": "cpp",
+        "*.tcc": "cpp",
+        "memory_resource": "cpp",
+        "istream": "cpp",
+        "streambuf": "cpp",
+        "system_error": "cpp",
+        "tuple": "cpp"
     }
 }
